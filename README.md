@@ -23,6 +23,6 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 - 20161128: Patched the Makefile for the usb host drivers and enabled USB 3.0 (XHCI)
 - 20161130: Allo enabled emmc, allowing images working both for sd and emmc	    
 - 20161201: Allo's latest kernel repo with patched makefile for usb host drivers
-
+- 20161202: Updated bootlogo and DSP firmware
  
 
