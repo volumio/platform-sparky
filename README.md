@@ -24,5 +24,6 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 - 20161130: Allo enabled emmc, allowing images working both for sd and emmc	    
 - 20161201: Allo's latest kernel repo with patched makefile for usb host drivers
 - 20161202: Updated bootlogo and DSP firmware
+- 20161207: Re-compiled for RTL8188 WiFi
  
 
