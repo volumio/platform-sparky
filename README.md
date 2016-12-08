@@ -25,5 +25,6 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 - 20161201: Allo's latest kernel repo with patched makefile for usb host drivers
 - 20161202: Updated bootlogo and DSP firmware
 - 20161207: Re-compiled for RTL8188 WiFi
- 
+- 20161208: Bumped kernel version 3.10.37 -> 3.10.38
+	    Piano/ Pinano+ DAC updated 
 
