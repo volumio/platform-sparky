@@ -27,6 +27,8 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 - 20161207: Re-compiled for RTL8188 WiFi
 - 20161208: Bumped kernel version 3.10.37 -> 3.10.38
 	    Piano/ Pinano+ DAC updated 
-- 20161213: Corrected config
+- 20161213: (Allo) Corrected config
+- 20170102: (Allo) Subwoofer issue fixed, thermal sensor message removed  
+
 
 
