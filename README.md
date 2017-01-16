@@ -29,6 +29,7 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 	    Piano/ Pinano+ DAC updated 
 - 20161213: (Allo) Corrected config
 - 20170102: (Allo) Subwoofer issue fixed, thermal sensor message removed  
+- 20170116: Pulled latest Allo changes and re-compiled
 
 
 
