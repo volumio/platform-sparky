@@ -31,6 +31,6 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 - 20170102: (Allo) Subwoofer issue fixed, thermal sensor message removed  
 - 20170116: Pulled latest Allo changes and re-compiled  
 - 20170126: Pulled and recomipled the kernel: adds sparky's initial heartbeat
-
+- 20170202: (Allo) Fixed shairport issue
 
 
