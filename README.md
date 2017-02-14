@@ -33,6 +33,6 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 - 20170126: Pulled and recomipled the kernel: adds sparky's initial heartbeat
 - 20170202: (Allo) Fixed shairport issue  
             Raised bootdelay (on cmdline) to 20s
-
+- 20170214: Reduced usb 2.0 boot time/ removed bootdelay from uEnv.txt
 
 
