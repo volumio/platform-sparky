@@ -35,4 +35,4 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
             Raised bootdelay (on cmdline) to 20s
 - 20170214: Reduced usb 2.0 boot time/ removed bootdelay from uEnv.txt
 - 20170217: Removed touchscreens, which slipped in while pullng kernel on 02.02.2017
-
+- 20170401: Added snd_aloop to support brutefir
