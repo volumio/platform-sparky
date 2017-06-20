@@ -36,5 +36,5 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 - 20170214: Reduced usb 2.0 boot time/ removed bootdelay from uEnv.txt
 - 20170217: Removed touchscreens, which slipped in while pullng kernel on 02.02.2017
 - 20170401: Added snd_aloop to support brutefir  
-- 20170614: USB Bridge Support, remote addition, uart5 enable, spi enable, Dual Mono
+- 20170618: USB Bridge Support, remote addition, uart5 enable, spi enable, Dual Mono
 
