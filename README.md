@@ -38,4 +38,5 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 - 20170401: Added snd_aloop to support brutefir  
 - 20170618: (Allo) USB Bridge Support, remote addition, uart5 enable, spi enable, Dual Mono  
 - 20170630: (Allo) Piano 2.1 driver update: added Dual Mode as a separate mixer mode
+- 20170706: (Allo) Piano 2.1 driver fix
 
