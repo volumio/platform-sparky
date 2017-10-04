@@ -41,4 +41,5 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 - 20170706: (Allo) Piano 2.1 driver fix  
 - 20170809: Added adapted hotspot.sh script for Sparky  
 - 20170925: (Allo) Added USB-2.0 patches, DSD native enable for Sparky
+- 20171004: (Allo) Bug fix: Piano2.1: mode init & max volume. Hiface driver added for usb dacs
 
