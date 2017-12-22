@@ -43,4 +43,7 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 - 20170925: (Allo) Added USB-2.0 patches, DSD native enable for Sparky
 - 20171004: (Allo) Bug fix: Piano2.1: mode init & max volume. Hiface driver added for usb dacs
 - 20171110: (Allo) Bug fix: USBridge: USB 2.0 urb fix
+- 20171222: (Allo) USB 2.0 driver updated.
+- 20171222: (Allo) USB 1.1 driver updated for USBridge port
+- 20171222: (Allo) Native DSD support dac list modified for Matrix Audio X-SPDIF 2 & SABAJ DA2,DA3
 
