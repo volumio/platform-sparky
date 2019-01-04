@@ -46,4 +46,6 @@ This repo contains all files, used by the Volumio Builder to create a **sparky**
 - 20171222: (Allo) USB 2.0 driver updated.
 - 20171222: (Allo) USB 1.1 driver updated for USBridge port
 - 20171222: (Allo) Native DSD support dac list modified for Matrix Audio X-SPDIF 2 & SABAJ DA2,DA3
+- 20190104: (Allo) drivers updated -usb dac Xmos,Mytec generic DSD detection
+- 20190104: (Allo) boot priority set to uSD, Touch screen,Eth driver updated ,dsi display 1080p set 
 
